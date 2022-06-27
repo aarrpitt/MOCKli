@@ -1,0 +1,21 @@
+.navbar ul li{
+    display: inline;
+    padding: 20px;
+    padding-top: 5px;
+    
+    
+}
+.navbar ul{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 38%;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+
+}
+.banner{
+    background-color: #2A1B3D;
+}
+
